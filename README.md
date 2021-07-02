@@ -37,6 +37,10 @@ using angular also there are 2 buttons
 block which update state to blocked so button block disapear
 resolve whcih upstae state to closed so will be filtered and not showed in list
 
+## test
+
+I tried to add unit test using chai-http but due time i didn`t add any test as there is a problem to use a chai with karma and then 3 hours finished :D
+
 
 
 
